@@ -3,8 +3,7 @@ Basic Credit Card Validator
 
 This is a basic credit card validator routine to sastify the following algorithm:
 
-# BASIC CREDIT CARD ALGORITHM
-
+ALGORITHM
 1. Drop the last digit from the number (call it checkDigit)
 2. Reverse the numbers
 3. Multiply the digits in odd positions (1,3,5 etc) by 2
